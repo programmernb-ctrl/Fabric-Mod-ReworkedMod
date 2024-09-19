@@ -1,6 +1,6 @@
 <a href="https://fabricmc.net/" target="_blank">
 <p align="center">
-<img src="https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png" alt="Logo" width="1000"/>
+<img src="https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png" alt="Logo" height="400" width="1000"/>
 </p></a>
 
 # Fabric Mod for a minecraft server
