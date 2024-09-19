@@ -1,4 +1,14 @@
 {
   "item.reworkedmod.blue_garnet": "Blauer Granat",
-  "item.reworkedmod.raw_blue_garnet": "Roher Blauer Granat"
+  "item.reworkedmod.raw_blue_garnet": "Roher Blauer Granat",
+
+  "block.reworkedmod.blue_garnet_block": "Blauer Granatblock",
+  "block.reworkedmod.raw_blue_garnet_block": "Roher Blauer Granatblock",
+
+  "block.reworkedmod.blue_garnet_ore": "Blaues Granat Erz",
+  "block.reworkedmod.blue_garnet_deepslate_ore": "Blaues Granat Deepslate Erz",
+
+
+  "itemgroup.reworkedmod.blue_garnet_items": "Blaue Granat Items",
+  "itemgroup.reworkedmod.blue_garnet_blocks": "Blaue Granat Blöcke"
 }

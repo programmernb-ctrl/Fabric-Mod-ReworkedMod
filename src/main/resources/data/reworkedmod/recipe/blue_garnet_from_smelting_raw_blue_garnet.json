@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "blue_garnet",
+  "ingredient": {
+    "item": "reworkedmod:raw_blue_garnet"
+  },
+  "result": {
+    "id": "reworkedmod:blue_garnet"
+  }
+}

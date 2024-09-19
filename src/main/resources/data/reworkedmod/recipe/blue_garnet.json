@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "reworkedmod:blue_garnet_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "reworkedmod:blue_garnet"
+  }
+}

@@ -1,4 +1,14 @@
 {
   "item.reworkedmod.blue_garnet": "Blue Garnet",
-  "item.reworkedmod.raw_blue_garnet": "Raw Blue Garnet"
+  "item.reworkedmod.raw_blue_garnet": "Raw Blue Garnet",
+
+  "block.reworkedmod.blue_garnet_block": "Block of Blue Garnet",
+  "block.reworkedmod.raw_blue_garnet_block": "Block of Raw Blue Garnet",
+
+  "block.reworkedmod.blue_garnet_ore": "Blue Garnet Ore",
+  "block.reworkedmod.blue_garnet_deepslate_ore": "Blue Garnet Deepslate Ore",
+
+
+  "itemgroup.reworkedmod.blue_garnet_items": "Blue Garnet Items",
+  "itemgroup.reworkedmod.blue_garnet_blocks": "Blue Garnet Blocks"
 }
