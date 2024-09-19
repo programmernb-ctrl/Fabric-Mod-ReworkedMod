@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "reworkedmod:blue_garnet_block",
     "reworkedmod:raw_blue_garnet_block",
     "reworkedmod:blue_garnet_ore"
   ]
