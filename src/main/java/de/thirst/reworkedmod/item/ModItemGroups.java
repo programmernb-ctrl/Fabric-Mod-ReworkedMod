@@ -33,6 +33,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.BLUE_GARNET_ORE);
                         entries.add(ModBlocks.BLUE_GARNET_DEEPSLATE_ORE);
 
+                        entries.add(ModBlocks.MAGIC_BLOCK);
+
                     }).build());
 
     public static void registerItemGroups() {
