@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "reworkedmod",
+	"version": "${version}",
+	"name": "Reworked Mod",
+	"description": "This is a little mod made by thirst for a mc server",
+	"authors": [
+		"Thirst"
+	],
+	"contact": {
+		"homepage": "coming soon",
+		"sources": "https://github.com/programmernb-ctrl/fabric"
+	},
+	"license": "MIT",
+	"icon": "assets/reworkedmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"de.thirst.reworkedmod.ReworkedMod"
+		],
+		"fabric-datagen": [
+			"de.thirst.reworkedmod.ReworkedModDataGenerator"
+		],
+		"client": [
+			"de.thirst.reworkedmod.ReworkedModClient"
+		]
+	},
+	"mixins": [
+		"reworkedmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
