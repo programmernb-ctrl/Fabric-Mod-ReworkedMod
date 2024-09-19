@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "reworkedmod:item/raw_blue_garnet"
+  }
+}
