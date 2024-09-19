@@ -10,6 +10,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item BLUE_GARNET = registerItem("blue_garnet", new Item(new Item.Settings()));
+    public static final Item RAW_BLUE_GARNET = registerItem("raw_blue_garnet", new Item(new Item.Settings()));
 
 
     private static Item registerItem(String name, Item item) {
@@ -21,6 +22,7 @@ public class ModItems {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(entries -> {
             entries.add(BLUE_GARNET);
+            entries.add(RAW_BLUE_GARNET);
         });
     }
 }
