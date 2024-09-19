@@ -18,6 +18,8 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.BLUE_GARNET);
                         entries.add(ModItems.RAW_BLUE_GARNET);
+
+                        entries.add(ModItems.CHISEL);
                     }).build());
 
     public static final ItemGroup BLUE_GARNET_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,

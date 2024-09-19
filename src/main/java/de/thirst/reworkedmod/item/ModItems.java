@@ -1,6 +1,7 @@
 package de.thirst.reworkedmod.item;
 
 import de.thirst.reworkedmod.ReworkedMod;
+import de.thirst.reworkedmod.item.custom.ChiselItem;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
@@ -11,6 +12,8 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item BLUE_GARNET = registerItem("blue_garnet", new Item(new Item.Settings()));
     public static final Item RAW_BLUE_GARNET = registerItem("raw_blue_garnet", new Item(new Item.Settings()));
+
+    public static final Item CHISEL = registerItem("chisel", new ChiselItem(new Item.Settings().maxDamage(32)));
 
 
     private static Item registerItem(String name, Item item) {
