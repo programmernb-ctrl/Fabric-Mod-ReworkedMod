@@ -2,6 +2,8 @@
   "item.reworkedmod.blue_garnet": "Blauer Granat",
   "item.reworkedmod.raw_blue_garnet": "Roher Blauer Granat",
   "item.reworkedmod.chisel": "Meißel",
+  "item.reworkedmod.cauliflower": "Blumenkohl",
+  "item.reworkedmod.starlight_ashes": "Sternenlicht Asche",
 
   "block.reworkedmod.blue_garnet_block": "Blauer Granatblock",
   "block.reworkedmod.raw_blue_garnet_block": "Roher Blauer Granatblock",
@@ -11,7 +13,12 @@
 
   "block.reworkedmod.magic_block": "Magischer Block",
 
-
   "itemgroup.reworkedmod.blue_garnet_items": "Blaue Granat Items",
-  "itemgroup.reworkedmod.blue_garnet_blocks": "Blaue Granat Blöcke"
+  "itemgroup.reworkedmod.blue_garnet_blocks": "Blaue Granat Blöcke",
+
+  "tooltip.reworkedmod.magic_block.tooltip": "Dieser Block ist sehr, sehr §5MAGISCH§r",
+
+  "tooltip.reworkedmod.chisel": "§7Halte§r §eShift§r §7für mehr Information!",
+  "tooltip.reworkedmod.chisel.shift_down": "Dieses Item meißelt Blöcke zu Ziegel!",
+  "tooltip.reworkedmod.cauliflower.tooltip": "Schmeckt irgendwie lecker"
 }

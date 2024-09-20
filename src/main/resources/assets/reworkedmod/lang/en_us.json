@@ -2,6 +2,8 @@
   "item.reworkedmod.blue_garnet": "Blue Garnet",
   "item.reworkedmod.raw_blue_garnet": "Raw Blue Garnet",
   "item.reworkedmod.chisel": "Chisel",
+  "item.reworkedmod.cauliflower": "Cauliflower",
+  "item.reworkedmod.starlight_ashes": "Starlight Ashes",
 
   "block.reworkedmod.blue_garnet_block": "Block of Blue Garnet",
   "block.reworkedmod.raw_blue_garnet_block": "Block of Raw Blue Garnet",
@@ -11,7 +13,12 @@
 
   "block.reworkedmod.magic_block": "Magic Block",
 
-
   "itemgroup.reworkedmod.blue_garnet_items": "Blue Garnet Items",
-  "itemgroup.reworkedmod.blue_garnet_blocks": "Blue Garnet Blocks"
+  "itemgroup.reworkedmod.blue_garnet_blocks": "Blue Garnet Blocks",
+
+  "tooltip.reworkedmod.magic_block.tooltip": "This block is very, very §9MAGICAL§r",
+
+  "tooltip.reworkedmod.chisel": "§7Press§r §eShift§r §7for more Information!",
+  "tooltip.reworkedmod.chisel.shift_down": "This item chisels blocks into Bricks!",
+  "tooltip.reworkedmod.cauliflower.tooltip": "Somehow it's delicious."
 }
