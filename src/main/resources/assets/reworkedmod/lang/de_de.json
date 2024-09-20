@@ -18,7 +18,7 @@
 
   "tooltip.reworkedmod.magic_block.tooltip": "Dieser Block ist sehr, sehr §5MAGISCH§r",
 
-  "tooltip.reworkedmod.chisel": "§7Halte§r §eShift§r §7für mehr Information!",
-  "tooltip.reworkedmod.chisel.shift_down": "Dieses Item meißelt Blöcke zu Ziegel!",
+  "tooltip.reworkedmod.chisel.tooltip": "§7Halte§r §eShift§r §7für mehr Information!",
+  "tooltip.reworkedmod.chisel.shift_down.tooltip": "Dieses Item meißelt Blöcke zu Ziegel!",
   "tooltip.reworkedmod.cauliflower.tooltip": "Schmeckt irgendwie lecker"
 }

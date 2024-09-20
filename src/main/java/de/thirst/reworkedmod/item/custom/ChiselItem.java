@@ -53,9 +53,9 @@ public class ChiselItem extends Item {
     @Override
     public void appendTooltip(ItemStack stack, TooltipContext context, List<Text> tooltip, TooltipType type) {
         if (Screen.hasShiftDown()) {
-            tooltip.add(Text.translatable("tooltip.reworkedmod.chisel.shift_down"));
+            tooltip.add(Text.translatable("tooltip.reworkedmod.chisel.shift_down.tooltip"));
         } else {
-            tooltip.add(Text.translatable("tooltip.reworkedmod.chisel"));
+            tooltip.add(Text.translatable("tooltip.reworkedmod.chisel.tooltip"));
         }
 
         super.appendTooltip(stack, context, tooltip, type);

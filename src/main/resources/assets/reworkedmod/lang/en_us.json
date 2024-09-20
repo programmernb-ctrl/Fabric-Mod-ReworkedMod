@@ -18,7 +18,7 @@
 
   "tooltip.reworkedmod.magic_block.tooltip": "This block is very, very §9MAGICAL§r",
 
-  "tooltip.reworkedmod.chisel": "§7Press§r §eShift§r §7for more Information!",
-  "tooltip.reworkedmod.chisel.shift_down": "This item chisels blocks into Bricks!",
+  "tooltip.reworkedmod.chisel.tooltip": "§7Press§r §eShift§r §7for more Information!",
+  "tooltip.reworkedmod.chisel.shift_down.tooltip": "This item chisels blocks into Bricks!",
   "tooltip.reworkedmod.cauliflower.tooltip": "Somehow it's delicious."
 }
